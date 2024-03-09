@@ -1,2 +1,5 @@
 # Description:
-Given code consists "Life Expectancy" dataset where in I have performed basic statistics by calculating (mean, median, mode and standard deviation). Also have created a linear regression graph with multiple variables on X and Y axis.
+Libraries used: Numpy, pandas and searborn.
+Data: Life Expectancy dataset.
+To perform: Linear regression analysis.
+Results: Mean, adjusted mean, Slope and y intercept.
